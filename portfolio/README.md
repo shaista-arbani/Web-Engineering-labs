@@ -30,3 +30,5 @@ npm run build
 ## Deploy
 
 Push this project to a GitHub repository, then import that repository into Vercel. Use the default Vite settings: build command `npm run build`, output directory `dist`. Add your live URL here after deployment.
+## Deployment
+This portfolio is being prepared for production deployment using Vercel.
